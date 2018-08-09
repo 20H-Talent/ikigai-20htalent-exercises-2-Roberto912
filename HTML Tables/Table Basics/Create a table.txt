@@ -1,0 +1,46 @@
+		
+<!DOCTYPE html>
+<html>
+ 
+ <head>
+ 
+   <meta charset="utf-8">
+  
+  <title>HTML Tables</title>
+ 
+ </head>
+  
+<body>
+
+ 
+<table>
+<tr>
+
+<td>nombre</td>
+<td>trabajo</td>
+
+</tr>
+<tr>
+
+<td>Marcu</td>
+<td>teletienda</td>
+
+
+</tr>
+<tr>
+
+<td>fran</td>
+<td>socorista</td>
+
+
+</tr>
+
+<tr>
+<td>margare</td>
+<td>Cocinera gourmet</td>
+</tr>
+</table>
+
+ </body>
+
+</html>
