@@ -1,0 +1,24 @@
+/* nav-item transitions ---------- */
+
+.nav-item {
+    flex-grow: 1;
+    transition-duration: .5s;
+    transition-delay: .1s;
+}
+
+.nav-item:hover {
+  flex-grow: 2;
+}
+
+/* nav icon transitions ---------- */
+
+.icon {
+  right: -25px;
+  transition-duration: .4s;
+  transition-delay: .3s;
+  transition-timing-function: ease-in-out
+}
+
+.nav-item:hover .icon {
+  right: 12%;
+}
